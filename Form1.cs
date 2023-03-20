@@ -12,6 +12,7 @@ namespace Training_Git
 {
     public partial class Form1 : Form
     {
+        // create a comment
         public Form1()
         {
             InitializeComponent();
